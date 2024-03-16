@@ -4,3 +4,5 @@ python-dotenv
 langchain-openai
 streamlit
 langchain-community
+langchainhub
+google-search-results
